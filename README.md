@@ -1,10 +1,11 @@
 # Android Project 4 - *Flixer [EXTENDED]*
+Video: https://drive.google.com/file/d/1ROIiwZzZzgpv1tU2PFrbSYVAdQL82CQd/view?usp=sharing
 
 Submitted by: **Connor Little**
 
 **Flixer [EXTENDED]** is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
